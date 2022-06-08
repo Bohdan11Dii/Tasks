@@ -1,0 +1,30 @@
+[
+  {
+    "data": [
+      {
+        "joke_0": "Documentation is like sex:\nWhen it's good, it's very good.\nWhen it's bad, it's better than nothing..."
+      },
+      {
+        "joke_1": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science."
+      },
+      {
+        "joke_2": "My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like."
+      },
+      {
+        "joke_3": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you."
+      }
+    ]
+  },
+  {
+    "requests_amount": 4
+  },
+  {
+    "saved_jokes_amount": 4
+  },
+  {
+    "invalid_jokes_amount": 0
+  },
+  {
+    "valid_jokes_amount": 1
+  }
+]
