@@ -1,0 +1,194 @@
+{
+  "0_r": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk hit the wall",
+    "r": "Sharyk found the right path"
+  },
+  "1_r": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk shook and ran away",
+    "r": "Sharyk found the right path"
+  },
+  "2_r": {
+    "u": "Sharyk shook and ran away",
+    "d": "Sharyk found the right path",
+    "l": "Sharyk hit the wall",
+    "r": "Sharyk hit the wall"
+  },
+  "3_l": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk got lost",
+    "l": "Sharyk found the right path",
+    "r": "Sharyk shook and ran away"
+  },
+  "4_d": {
+    "u": "Sharyk shook and ran away",
+    "d": "Sharyk found the right path",
+    "l": "Sharyk hit the wall",
+    "r": "Sharyk hit the wall"
+  },
+  "5_l": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk got lost",
+    "l": "Sharyk found the right path",
+    "r": "Sharyk shook and ran away"
+  },
+  "6_d_n": {
+    "u": "Sharyk shook and ran away",
+    "d": "Sharyk got lost",
+    "l": "Sharyk hit the wall",
+    "r": "Sharyk hit the wall"
+  },
+  "7_r": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk shook and ran away",
+    "r": "Sharyk found the right path"
+  },
+  "8_r": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk shook and ran away",
+    "r": "Sharyk found the right path"
+  },
+  "9_u_n": {
+    "u": "Sharyk got lost",
+    "d": "Sharyk shook and ran away",
+    "l": "Sharyk hit the wall",
+    "r": "Sharyk hit the wall"
+  },
+  "10_d": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk shook and ran away",
+    "r": "Sharyk found the right path"
+  },
+  "11_u_n": {
+    "u": "Sharyk got lost",
+    "d": "Sharyk shook and ran away",
+    "l": "Sharyk hit the wall",
+    "r": "Sharyk hit the wall"
+  },
+  "12_d": {
+    "u": "Sharyk shook and ran away",
+    "d": "Sharyk found the right path",
+    "l": "Sharyk hit the wall",
+    "r": "Sharyk hit the wall"
+  },
+  "13_l_n": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk got lost",
+    "r": "Sharyk shook and ran away"
+  },
+  "14_d": {
+    "u": "Sharyk shook and ran away",
+    "d": "Sharyk found the right path",
+    "l": "Sharyk hit the wall",
+    "r": "Sharyk hit the wall"
+  },
+  "15_r": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk shook and ran away",
+    "r": "Sharyk found the right path"
+  },
+  "16_d_n": {
+    "u": "Sharyk shook and ran away",
+    "d": "Sharyk got lost",
+    "l": "Sharyk hit the wall",
+    "r": "Sharyk hit the wall"
+  },
+  "17_r": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk shook and ran away",
+    "r": "Sharyk found the right path"
+  },
+  "18_r": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk shook and ran away",
+    "r": "Sharyk found the right path"
+  },
+  "19_r": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk shook and ran away",
+    "r": "Sharyk found the right path"
+  },
+  "20_d": {
+    "u": "Sharyk shook and ran away",
+    "d": "Sharyk found the right path",
+    "l": "Sharyk hit the wall",
+    "r": "Sharyk hit the wall"
+  },
+  "21_l": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk found the right path",
+    "r": "Sharyk shook and ran away"
+  },
+  "22_d": {
+    "u": "Sharyk shook and ran away",
+    "d": "Sharyk found the right path",
+    "l": "Sharyk hit the wall",
+    "r": "Sharyk hit the wall"
+  },
+  "23_r_n": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk shook and ran away",
+    "r": "Sharyk got lost"
+  },
+  "24_d": {
+    "u": "Sharyk shook and ran away",
+    "d": "Sharyk found the right path",
+    "l": "Sharyk hit the wall",
+    "r": "Sharyk hit the wall"
+  },
+  "25_l": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk found the right path",
+    "r": "Sharyk shook and ran away"
+  },
+  "26_d": {
+    "u": "Sharyk shook and ran away",
+    "d": "Sharyk found the right path",
+    "l": "Sharyk hit the wall",
+    "r": "Sharyk hit the wall"
+  },
+  "27_l": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk got lost",
+    "r": "Sharyk shook and ran away"
+  },
+  "28_r": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk shook and ran away",
+    "r": "Sharyk found the right path"
+  },
+  "29_d": {
+    "u": "Sharyk shook and ran away",
+    "d": "Sharyk found the right path",
+    "l": "Sharyk hit the wall",
+    "r": "Sharyk hit the wall"
+  },
+  "30_r": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk shook and ran away",
+    "r": "Sharyk found the right path"
+  },
+  "31_r": {
+    "u": "Sharyk hit the wall",
+    "d": "Sharyk hit the wall",
+    "l": "Sharyk hit the wall",
+    "r": "Sharyk found the right path"
+  }
+}
